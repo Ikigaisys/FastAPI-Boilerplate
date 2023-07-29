@@ -1,6 +1,6 @@
 # FastAPI Boilerplate
 
-Boilerplate for a FastAPI application
+Boilerplate for a FastAPI application. It is similar to [Flask-restx Boilerplate](https://github.com/Ikigaisys/Flask-restx-Boilerplate).
 
 ## Installation
 
